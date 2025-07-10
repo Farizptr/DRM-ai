@@ -1,0 +1,7 @@
+names:
+- building
+nc: 1
+path: dataset
+test: images/test
+train: images/train
+val: images/val
